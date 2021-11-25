@@ -1,0 +1,2 @@
+# Project-2-MachineLearning
+Cars are one of the most important transportation in our life. Using your own car and not being dependent on public transportation can be convenient, economic, and saves you time.   In this project our dataset contains information about used cars listed on www.cardekho.com This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
